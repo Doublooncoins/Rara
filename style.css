@@ -1,0 +1,28 @@
+body{
+	background-color:#7ac8fd;
+}
+h1{
+text-align:center;
+font-family:comic sans;
+color:#FFFFFF;
+}
+h2{ color:#FFFFFF }
+
+p{
+	color:#FFFFFF;
+}
+a{color: #1995ec;
+border-color: #1995ec;
+border-style: solid;
+background-color: #FFFFFF;
+border-width: 3px;}
+
+a:hover{color: #FFFFFF;
+border-color: #FFFFFF;}
+
+li{
+	display: inline;
+	padding:3px;
+margin:none;}
+
+title{ font-family:pacifico;}
